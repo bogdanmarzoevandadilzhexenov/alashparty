@@ -1,0 +1,150 @@
+.signin{
+  margin-right: 140px;
+}
+
+.signupexternal{
+  margin-left: 180px;
+}
+
+a{
+  font-family: Bookman Old Style;
+}
+
+.main{
+  background: url(images/fon4.jpg);
+}
+
+#maincarousel{
+  border: 6px solid #ffc107;
+  border-radius: 10px;
+}
+
+.buttonlist{
+  background-color: darkred;
+}
+
+.welcome{
+  font-size: 48px;
+  font-family: Bookman Old Style;
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
+
+.carouseltitle{
+  font-size: 24px;
+  font-family: Bookman Old Style;
+  font-style: bold;
+  color: #fff;
+  text-shadow: 5px 0 5px #000;
+}
+
+.carouseltext{
+  font-size: 18px;
+  font-family: Bookman Old Style;
+  color: #fff;
+  text-shadow: 5px 0 5px #000;
+}
+
+
+.more{
+  margin-top: -40px;
+}
+
+.membersalash{
+  background: url(images/fon5.jpg);
+  background-size: 100%;
+  background-repeat: ;
+}
+
+.firsttitle{
+  font-size: 48px;
+  font-family: Bookman Old Style;
+  color: #212529;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.photo{
+  height: 100%;
+}
+
+.titlecard{
+  font-size: 18px;
+  font-family: Bookman Old Style;
+  font-style: bold;
+  color: #212529;
+}
+
+.textcard{
+  font-size: 16px;
+  font-family: Bookman Old Style;
+  color: #212529;
+}
+
+.firsttext{
+  font-size: 24px;
+  font-family: Bookman Old Style;
+  color: #212529;
+  text-align: center;
+}
+
+.firsttextlink{
+  font-size: 24px;
+  font-family: Bookman Old Style;
+  font-weight: bold;
+  color: #212529;
+  text-align: center;
+  transition:.3s ease;
+}
+
+.firsttextlink:hover{
+  color: #fff;
+}
+
+.btnmore a{
+  font-size: 30px;
+  padding: 10px 30px;
+}
+
+.hisevents{
+  background: url(images/fon3.jpg);
+  background-size: 100%;
+}
+
+.secondtitle{
+  font-size: 48px;
+  font-family: Bookman Old Style;
+  color: #ffc107;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.secondtext{
+  margin-top: 280px;
+  font-size: 24px;
+  font-family: Bookman Old Style;
+  color: #fff;
+  text-align: center;
+}
+
+.secondtextlink{
+  font-size: 24px;
+  font-family: Bookman Old Style;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  transition:.3s ease;
+}
+
+.secondtextlink:hover{
+  color: #ffc107;
+}
+
+#hiseventscarousel{
+  border: 6px solid #ffc107;
+  border-radius: 10px;
+}
+
+.textfooter{
+  font-family: Bookman Old Style;
+}

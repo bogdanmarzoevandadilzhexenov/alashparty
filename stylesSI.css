@@ -1,0 +1,30 @@
+.container{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	min-height: 100vh;
+}
+
+.reg{
+	padding: 30px 30px;
+	background: rgba(255, 200, 0, 0.5);
+	border: 5px solid #ffc107;
+	border-radius: 20px;
+	box-shadow: 0 0 20px rgba(255,255, 255, 0.3);
+}
+
+.text{
+	font-family: Bookman Old Style;
+	font-size: 16px;
+	color: #fff;
+}
+
+.link{
+	color: #c0c0c0;
+	transition: .3s ease;
+}
+
+.link:hover{
+	color: #fff;
+}
